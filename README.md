@@ -1,2 +1,3 @@
 # hello-world
-GitHub demo for Manchester Hacktoberfest 2019
+
+We are having so much fun at Hacktoberfest! 
